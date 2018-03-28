@@ -8,7 +8,7 @@
 <title>Mademoiselle</title>
 </head>
 
-<body background="img/FE">
+<body background="/img/FE">
 <div class="centrer">
   
   <p>Bienvenue dans le Blog de Mademoiselle </p>
