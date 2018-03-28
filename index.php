@@ -8,7 +8,7 @@
 <title>Mademoiselle</title>
 </head>
 
-<body background="/img/FE">
+<body background="/subscriptions/5f69179b-4f85-43ab-b02c-393985dd2166/resourceGroups/BLOG/providers/Microsoft.Storage/storageAccounts/bimages/FE">
 <div class="centrer">
   
   <p>Bienvenue dans le Blog de Mademoiselle </p>
