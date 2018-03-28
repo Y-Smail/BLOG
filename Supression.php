@@ -1,6 +1,6 @@
 <?php
 // Connection a la BDD 'Cloud'
-$objetPdo = new PDO('mysql:host=localhost;dbname=blog','root','');
+$objetPdo = new PDO('mysql:host=mademoiselle-mysqldbserver.mysql.database.azure.com; dbname=blog','mysqldbuser@mademoiselle-mysqldbserver','Estiam1994');
 
 // Req
 $PdoStat = $objetPdo->prepare('DELETE FROM abonnement WHERE ID=:N LIMIT 1');
