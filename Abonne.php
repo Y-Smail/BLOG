@@ -7,7 +7,7 @@ session_start();
 <title>Ajout-Abonnements</title>
 </head>
 
-<body background="img/FE">
+<body background="https://bimages.blob.core.windows.net/fond/FE.jpg">
  <h1> Ajouter un Abonnement </h1>
  <form method="post" action="insertion.php">
  Nom <br/> <input type="text"  name="Nom" id="Nom"/><br/><br />
