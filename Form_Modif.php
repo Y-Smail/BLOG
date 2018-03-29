@@ -19,7 +19,7 @@ $abonnement = $PdoStat->fetch();
 <title> Modifications</title>
 </head>
 
-<body background="img/FE">
+<body background="https://bimages.blob.core.windows.net/fond/FE.jpg">
  <h1> Modifier un Abonnement </h1>
  <form method="post" action="Modif.php">
  <input type="hidden" name="numABO" Value="<?= $abonnement['ID'] ?>" > 
