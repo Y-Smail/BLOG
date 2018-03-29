@@ -17,7 +17,7 @@ $abonnements = $PdoStat->fetchall();
 <title>Abonnements</title>
 </head>
 
-<body background="img/FE">
+<body background="https://bimages.blob.core.windows.net/fond/FE.jpg">
 <h1> Liste des Abonnements </h1>
 <ul>
     <?php foreach ($abonnements as $abo): ?>
