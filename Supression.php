@@ -23,7 +23,7 @@ else {
 <title>Abonnements</title>
 </head>
 
-<body background="img/FE">
+<body background="https://bimages.blob.core.windows.net/fond/FE.jpg">
 <h1> Supression </h1>
 
 <p><?= $message ?></p>
