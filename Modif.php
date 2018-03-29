@@ -25,7 +25,7 @@ else {
 <title>Modification : résultat</title>
 </head>
 
-<body background="img/FE">
+<body background="https://bimages.blob.core.windows.net/fond/FE.jpg">
 <h1> Modification </h1>
 
 <p><?= $message ?></p>
